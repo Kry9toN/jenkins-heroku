@@ -1,0 +1,12 @@
+{
+  "name": "Jenkkns",
+  "description": "Jenkims Heroku",
+  "keywords": [
+    "ci-cd",
+    "jenkins",
+    "rom",
+    "build"
+  ],
+  "repository": "https://github.com/Kry9toN/KryPtoN-WhatsApp-Bot",
+  "stack": "container"
+}
